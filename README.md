@@ -1,3 +1,3 @@
-magnetic
+GravityBox runner
 ========
-- __disdoc.md__ Дизайн документ
+- __disdoc/disdoc.md__ Дизайн документ
