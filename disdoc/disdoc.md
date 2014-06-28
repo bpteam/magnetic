@@ -25,7 +25,9 @@
 игра не стоит доллара, она должна быть бесплатной.
 
 ###Персональный компьютер
-- Electronic Super Joy [Видео](http://store.steampowered.com/video/244870)
+- Electronic Super Joy [Видео](http://store.steampowered.com/video/244870) Клевое звуковое сопровождение, озвучка актеров
+на чек поинтах. Музыка в стиле техно с беспределом творащимся на уровне где все кружится в разные стороны, деревья ростут
+и распускаются, все везде шевелится и жители мира коментируют твои действия.
 - And Yet It Moves [Видео](http://store.steampowered.com/video/18700)
 - BIT.TRIP RUNNER [Видео](http://store.steampowered.com/video/63710)
 - VVVVVV [Видео](http://store.steampowered.com/video/70300)
@@ -159,7 +161,7 @@ GravityBox'ами висел плакат с надписью "Бегун - ли
 
 
 
-
+---
 
 
 #Термины
